@@ -14,9 +14,9 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 * Replace CVar ``m_filter 1`` logic with new one due to the m_filter logic with low FPS it can cause choppiness and bad input.
 
 ### Credits:
-* Haze for the logic.
-* schweiziske for getting the correct patterns for GMod.
-* Me for adding new filter logic.
+* Haze for the logic. Github: https://github.com/Haze1337
+* schweiziske for getting the correct patterns for GMod. - Discord: schweiziske Steam: [https://steamcommunity.com/id/fibzy_](https://steamcommunity.com/id/fibzy_/)
+* Me for adding new filter logic. - Discord: schweiziske Steam: [https://steamcommunity.com/id/schweiziske](https://steamcommunity.com/id/schweiziske/)
 
 ### Building requirements
 * [Microsoft Detours](https://github.com/microsoft/Detours)
