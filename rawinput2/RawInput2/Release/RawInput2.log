@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\VEHhook.h(20,44): error C2039: 'Rip': is not a member of '_CONTEXT'
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(8521,35):
+      see declaration of '_CONTEXT'
+  
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\VEHhook.h(23,71): error C2039: 'Rbx': is not a member of '_CONTEXT'
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(8521,35):
+      see declaration of '_CONTEXT'
+  
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\VEHhook.h(27,66): error C2039: 'Xmm6': is not a member of '_CONTEXT'
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(8521,35):
+      see declaration of '_CONTEXT'
+  
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\VEHhook.h(28,66): error C2039: 'Xmm7': is not a member of '_CONTEXT'
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(8521,35):
+      see declaration of '_CONTEXT'
+  
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\VEHhook.h(30,44): error C2039: 'Rip': is not a member of '_CONTEXT'
+  (compiling source file 'main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(8521,35):
+      see declaration of '_CONTEXT'
+  
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(102,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(104,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(105,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(146,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(147,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(308,2): error C2664: 'void InstallHook(uintptr_t,uintptr_t,HookedFn)': cannot convert argument 3 from 'void (__fastcall *)(CInput *,float *,float *)' to 'HookedFn'
+      C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(308,39):
+      None of the functions with this name in scope match the target type
+      C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\VEHhook.h(67,6):
+      see declaration of 'InstallHook'
+      C:\Users\jwolf\OneDrive\Desktop\Server Stuff\rawinput2 (2)\RawInput2\main.cpp(308,2):
+      while trying to match the argument list '(uintptr_t, uintptr_t, overloaded-function)'
+  
