@@ -1,5 +1,7 @@
 ## x64 Gmod RawInput2
 
+- Main useage BHOP and Surf and fast pace moving gamemodes.
+
 An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_rawinput 2`` behaviour. This option provides mouse interpolation which will ["line up with the tickrate properly without needing to have a specific framerate"](https://discord.com/channels/235111289435717633/356398721790902274/997026787995435088) (rio). The code for this isn't public and was reverse engineered from the game.
 
 ### Usage
