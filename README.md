@@ -8,6 +8,7 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 * Run the application either the RawInput2_smoothing.exe one for new m_filter logic or RawInput2.exe without filter logic.
 * Start GMod (NOTE: Only works on the x64 branch.)
 * Make sure to set ``m_filter 0`` in game.
+* Make sure the exe is always running if you close it raw2 will exit
 
 ### DO TO:
 * Add CVar support for m_rawinput 2 (Right now its always on when ran).
