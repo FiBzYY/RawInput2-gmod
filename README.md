@@ -25,3 +25,4 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 
 * ### Note:
 * The source code patterns for GMod will not be released due to game security of facepunch.
+* Dev 64x branch has not been implemented or tested yet.
