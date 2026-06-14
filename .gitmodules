@@ -5,3 +5,6 @@
 [submodule "RawInput2/Detours"]
 	path = RawInput2/Detours
 	url = https://github.com/microsoft/Detours.git
+[submodule "rawinput2/RawInput2/Detours"]
+	path = rawinput2/RawInput2/Detours
+	url = https://github.com/microsoft/Detours.git
