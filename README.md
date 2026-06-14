@@ -17,7 +17,7 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 ### Credits:
 * Haze for the logic. Github: https://github.com/Haze1337
 * schweiziske for getting the correct patterns for GMod. - Discord: schweiziske Steam: [https://steamcommunity.com/id/schweiziske](https://steamcommunity.com/id/schweiziske/)
-* Me for adding new filter logic. - Discord: FiBzYY Steam: [https://steamcommunity.com/id/schweiziske](https://steamcommunity.com/id/fibzy_/)
+* Me for adding new filter logic. - Discord: FiBzYY Steam: [https://steamcommunity.com/id/fibzy_](https://steamcommunity.com/id/fibzy_/)
 * https://github.com/gfreivasc/VEHHook for VEHHook
 
 ### Building requirements
@@ -26,3 +26,6 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 * ### Note:
 * The source code patterns for GMod will not be released due to game security of facepunch.
 * Dev 64x branch has not been implemented or tested yet.
+
+Virus Scan:
+https://virusscan.jotti.org/en-US/filescanjob/iiihiv3ze7
