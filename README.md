@@ -8,17 +8,21 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 * Run the application either the RawInput2_smoothing.exe one for new m_filter logic or RawInput2.exe without filter logic.
 * Start GMod (NOTE: Only works on the x64 branch.)
 * Make sure to set ``m_filter 0`` in game.
-* Make sure the exe is always running if you close it raw2 will exit
+
+### Added:
+* Added CVar support for m_rawinput 2.
+* Added new game startup.
 
 ### DO TO:
-* Add CVar support for m_rawinput 2 (Right now its always on when ran).
-* Replace CVar ``m_filter 1`` logic with new one due to the m_filter logic with low FPS it can cause choppiness and bad input.
+* Hook GetMouseDelta instead of handling it in GetAndReset.
 
 ### Credits:
 * Haze for the logic. Github: https://github.com/Haze1337
 * schweiziske for getting the correct patterns for GMod. - Discord: schweiziske Steam: [https://steamcommunity.com/id/schweiziske](https://steamcommunity.com/id/schweiziske/)
 * Me for adding new filter logic. - Discord: FiBzYY Steam: [https://steamcommunity.com/id/fibzy_](https://steamcommunity.com/id/fibzy_/)
 * gfreivasc https://github.com/gfreivasc/VEHHook for VEHHook
+* gfreivasc https://github.com/gfreivasc/VEHHook for VEHHook
+* alkatrazbhop https://github.com/alkatrazbhop/BunnyhopAPE for BunnyhopAPE Startup
 
 ### Building requirements
 * [Microsoft Detours](https://github.com/microsoft/Detours)
