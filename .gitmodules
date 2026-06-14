@@ -1,0 +1,3 @@
+[submodule "rawinput2/RawInput2/VEHHook"]
+	path = rawinput2/RawInput2/VEHHook
+	url = https://github.com/gfreivasc/VEHHook.git
