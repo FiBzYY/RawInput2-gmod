@@ -144,8 +144,7 @@ void GetAccumulatedMouseDeltasAndResetAccumulators(CInput* thisptr, float* mx, f
 		{
 			if (m_rawinput_cvar->GetInt() == 2 && frametime > 0.0)
 			{
-				m_flMouseSampleTime -=
-					MIN(m_flMouseSampleTime, frametime);
+				m_flMouseSampleTime -= MIN(m_flMouseSampleTime, frametime);
 
 				GetRawMouseAccumulators(rawMouseX, rawMouseY, Plat_FloatTime() - m_flMouseSampleTime);
 			}
