@@ -1,3 +1,7 @@
 [submodule "rawinput2/RawInput2/VEHHook"]
 	path = rawinput2/RawInput2/VEHHook
 	url = https://github.com/gfreivasc/VEHHook.git
+
+[submodule "RawInput2/Detours"]
+	path = RawInput2/Detours
+	url = https://github.com/microsoft/Detours.git
