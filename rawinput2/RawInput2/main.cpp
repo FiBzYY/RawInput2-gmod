@@ -5,7 +5,7 @@
 #include "utils.h"
 #include "Detours/src/detours.h"
 #include "convar.h"
-#include "VEHhook.h"
+#include "VEHHook/VEHhook.h"
 
 // Credits go to Haze for the logic, schweiziske for the patterns, FiBzY for adding m_fiter 1
 
