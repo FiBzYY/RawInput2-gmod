@@ -1,0 +1,145 @@
+[33mcommit e8ad96bb3331f1b8a4fec8135391832462c12e35[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: fibzyy <jwolf2110@gmail.com>
+Date:   Sun Jun 14 06:18:57 2026 -0400
+
+    Removed old Detours submodule
+
+[33mcommit 484bb6676d81d4c772694ce375d12e92ca4b24fe[m
+Author: fibzyy <jwolf2110@gmail.com>
+Date:   Sun Jun 14 06:14:00 2026 -0400
+
+    Added Detours submodule to correct location
+
+[33mcommit 5a787c04291f81f55fcec7ed45bf33c0a0375462[m
+Author: fibzyy <jwolf2110@gmail.com>
+Date:   Sun Jun 14 06:12:45 2026 -0400
+
+    Added Detours submodule
+
+[33mcommit 68a47cd7e7475d4efb6e32c7d8455ce50aba5397[m
+Author: fibzyy <jwolf2110@gmail.com>
+Date:   Sun Jun 14 06:11:35 2026 -0400
+
+    Updated README
+
+[33mcommit 6be09549578cedf0451ebd06db0dd0e88af4f1e3[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Sun Jun 14 06:07:13 2026 -0400
+
+    Add Detours submodule to .gitmodules
+
+[33mcommit 3f3d66e4f36796cedcd0fd677fec1474eb9ab565[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Sun Jun 14 04:55:50 2026 -0400
+
+    Fix include path for VEHhook header
+
+[33mcommit 22b0710370b4fc8511d8175d6074e8aac221d839[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Sun Jun 14 04:54:57 2026 -0400
+
+    Delete rawinput2/RawInput2/VEHhook.h
+
+[33mcommit 0f05ff20a847953b56cca9088b0ff17f63f4a7cd[m
+Author: fibzyy <jwolf2110@gmail.com>
+Date:   Sun Jun 14 04:52:33 2026 -0400
+
+    Initial commit
+
+[33mcommit 3f45b32307be06589271cfac356ded0a1db97295[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Sat Jun 13 23:21:50 2026 -0400
+
+    Update credits formatting in README.md
+
+[33mcommit ce7172102fb28e34bf4f71e2df4b9547e77304de[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Sat Jun 13 23:21:05 2026 -0400
+
+    Fix Discord link and add virus scan information
+    
+    Corrected Discord link for user FiBzYY and added a virus scan link.
+
+[33mcommit 15dbb7c841fe384f2b1767e8f238acf3efb9365c[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Fri Jun 12 21:19:23 2026 -0400
+
+    Update README with Dev 64x branch status
+    
+    Added note about untested Dev 64x branch.
+
+[33mcommit 8a4e993b5f661959517e6bd1e0d53cc43c5ae40e[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Thu Jun 4 09:09:35 2026 -0400
+
+    Update README with executable running note
+    
+    Added note about keeping the executable running to prevent exit.
+
+[33mcommit c73386d7330cd6d9a686c7b95382bb2a52d54b44[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:55:18 2026 -0400
+
+    Update README.md
+
+[33mcommit f98e2c4f53043ea85d7f429a0f4a5bbb578a8c38[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:46:22 2026 -0400
+
+    Fix Steam profile link for schweiziske
+    
+    Corrected the link format for schweiziske's Steam profile.
+
+[33mcommit c984be138ad359aeb4e2c485bd0b367625d426c6[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:46:03 2026 -0400
+
+    Fix credits section in README.md
+    
+    Updated Discord username for Me and corrected Steam link.
+
+[33mcommit 5a88737b44de6250aac3ff5787a61c86b00ae2df[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:39:08 2026 -0400
+
+    Delete rawinput2/RawInput2/Release directory
+
+[33mcommit e3abe6cf83c8114e2093892246fb0032380bb0c9[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:38:23 2026 -0400
+
+    Update README.md
+
+[33mcommit dd631fe14ca87c45a2588534efef5db5d9536eac[m[33m ([m[1;33mtag: [m[1;33minput[m[33m)[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:34:13 2026 -0400
+
+    Fix spelling and formatting in README.md
+    
+    Corrected spelling and formatting issues in the README.
+
+[33mcommit de2b7c7d171eac9e52cbc4275e9adbdf98808517[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:32:24 2026 -0400
+
+    Add files via upload
+
+[33mcommit a545fbd5e5ea99906400ee411f62e4b8d167ce20[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:31:35 2026 -0400
+
+    Update README.md
+
+[33mcommit d747dada28b475dd75586e7fd1dd86ad0d10355e[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:22:51 2026 -0400
+
+    Enhance README with Gmod RawInput2 details
+    
+    Added detailed information about Gmod RawInput2, including usage instructions and building requirements.
+
+[33mcommit 332d97329e416c66d6f81be89f11975733e49611[m
+Author: FiBzY <jwolf2110@gmail.com>
+Date:   Tue May 26 00:14:34 2026 -0400
+
+    Initial commit

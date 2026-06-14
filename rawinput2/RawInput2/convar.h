@@ -9,11 +9,11 @@ class ConVar {
 
 public:
 	int GetInt(void){
-		ConVar* m_pParent = (ConVar*)((uintptr_t)this + 0x38);
+		ConVar* parent = *(ConVar**)((uintptr_t)this + 0x38);
 
-		int iVal = *(int*)((uintptr_t)m_pParent + 0x58);
-		
-		return iVal ^ (intp)m_pParent;
+		int value = *(int*)((uintptr_t)parent + 0x58);
+
+		return value ^ (uintptr_t)parent;
 	}
 };
 
