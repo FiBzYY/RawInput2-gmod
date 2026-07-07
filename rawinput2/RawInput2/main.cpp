@@ -275,7 +275,11 @@ DWORD InjectionEntryPoint(DWORD processID)
 	auto vstdlib_factory = reinterpret_cast<CreateInterfaceFn>(GetProcAddress(GetModuleHandleA("vstdlib.dll"), "CreateInterface"));
 
 	g_pCVar = reinterpret_cast<CCvar*>(vstdlib_factory("VEngineCvar007", nullptr));
-	m_rawinput_cvar = g_pCVar->FindVar("m_rawinput");
+	while (!m_rawinput_cvar)
+	{
+		m_rawinput_cvar = g_pCVar->FindVar("m_rawinput");
+		Sleep(100);
+	}
 
 	oGetRawMouseAccumulators = (GetRawMouseAccumulatorsFn)(FindPattern("inputsystem.dll", ""));
 	if (!oGetRawMouseAccumulators) Error("Failed to find pattern for GetRawMouseAccumulators");
