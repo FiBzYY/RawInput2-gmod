@@ -15,7 +15,8 @@ An external software that ports [momentum mod's](https://momentum-mod.org/) ``m_
 
 ### DO TO:
 * Hook GetMouseDelta instead of handling it in GetAndReset.
-
+* Update for main 64x bit branch
+  
 ### Credits:
 * Haze for the logic. Github: https://github.com/Haze1337
 * schweiziske for getting the correct patterns for GMod. - Discord: schweiziske Steam: [https://steamcommunity.com/id/schweiziske](https://steamcommunity.com/id/schweiziske/)
