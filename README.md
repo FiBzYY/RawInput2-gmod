@@ -1,4 +1,4 @@
-## x64 Gmod RawInput2
+## x86-64 Gmod RawInput2
 
 - Main useage BHOP and Surf and fast pace moving gamemodes.
 
